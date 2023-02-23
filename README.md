@@ -2,7 +2,6 @@
 Matlab Code for color image denoising:
 
 Reference:
-
 Yiwen Shan, Dong Hu, Zhi Wang, Tao Jia. Multi-channel Nuclear Norm Minus Frobenius Norm Minimization for Color Image Denoising. Signal Processing, vol. 207, Jun. 2023, Art. no. 108959..
 
 This code is written by Yiwen Shan, Southwest Universiy, 2022
